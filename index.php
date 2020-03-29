@@ -300,7 +300,7 @@
                     </td>
                     <td></td>
                     <td>
-                        <a href="https://www.linkedin.com/in/joseph-manuel-t-5a503511a" target="_blank">
+                        <a href="https://www.linkedin.com/in/josephthenara" target="_blank">
                             <i class="fa fa-linkedin w3-hover-opacity"></i>
                         </a>
                     </td>
