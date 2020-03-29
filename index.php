@@ -258,7 +258,7 @@
     <p class="w3-center"><em>I'm looking forward to hearing from you</em></p>
 
     <div class="w3-row w3-padding-32 w3-section">
-        <div class="w3-col m4 w3-container">
+        <div class="w3-col m4 w3-container w3-center">
             <img src="img/logo4.png" class="w3-image w3-round" style="width:75%">
         </div>
         <div class="w3-col m8 w3-panel">
