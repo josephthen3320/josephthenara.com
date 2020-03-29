@@ -4,10 +4,10 @@
 <title>&lt/JOSEPH.THEN&gt</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/w3.css">
+<link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/main.css">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -19,7 +19,7 @@
         <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
             <i class="fa fa-bars"></i>
         </a>
-        <a href="index.html" class="w3-button"><i class="fa fa-reply"></i> BACK</a>
+        <a href="index.php" class="w3-button"><i class="fa fa-reply"></i> BACK</a>
         <div class="w3-bar-item w3-display-middle">&lt/JOSEPH.THEN&gt</div>
         <div class="w3-bar-item w3-right">PORTFOLIO | </div>
     </div>

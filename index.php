@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="css/font-awesome.min.css">
 <title>&lt/JOSEPH.THEN&gt</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -47,7 +46,7 @@
     }
 </style>
 
-<body>
+<body ondragstart="return false" onselectstart="return false">
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
@@ -91,7 +90,7 @@
         </div>
 
         <!-- Hide this text on small devices -->
-        <div class="w3-col m6 w3-hide-small w3-padding-large">
+        <div class="w3-col m6  w3-padding-large">
             <p>
                 Welcome to my website.
             </p>
@@ -161,28 +160,60 @@
 
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
-    <h3 class="w3-center">MY WORK</h3>
-    <p class="w3-center"><em>Here are some of my latest motion films and photography work.<br> Click on the images to make them bigger</em></p><br>
+    <h3 class="w3-center">FEATURED WORK</h3>
+    <p class="w3-center"><em>My favorite works selected for your viewing.<br>Click the picture to enlarge.</em></p><br>
+
+    <!-- Slideshow Section Trial -->
+    <div class="w3-container">
+      <div class="w3-display-container">
+          <img class="mySlides w3-animate-opacity" src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-Bleak-Days.jpg" style="width:100%" onclick="onClick(this)" alt="Trent (Bleak)">
+          <img class="mySlides w3-animate-opacity" src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-Hopeful-Days.jpg" style="width:100%" onclick="onClick(this)" alt="Trent (Hopeful)">
+          <img class="mySlides w3-animate-opacity" src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-at-Sunset.jpg" style="width:100%" onclick="onClick(this)" alt="Trent (Sunset)">
+          <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+              <div class="w3-left w3-hover-text-khaki w3-button w3-hover-blue w3-black" onclick="plusDivs(-1)">&#10094;</div>
+              <div class="w3-right w3-hover-text-khaki w3-button w3-hover-blue w3-black" onclick="plusDivs(1)">&#10095;</div>
+
+                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)" style="height:13px;width:13px;padding:0"></span>
+                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)" style="height:13px;width:13px;padding:0"></span>
+                <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)" style="height:13px;width:13px;padding:0"></span>
+
+          </div>
+      </div>
+      <div class="w3-container w3-bar w3-blue w3-center">
+        <h6 class="">UNNC Trent Building Series</h6>
+      </div>
+    </div>
+<hr/>
+
+    <h4 class="w3-center">GALLERY</h4>
+    <p class="w3-center"><em>Click the button below for some of my latest motion films and photography work.</em></p>
+    <a href="works.php" class="w3-button w3-bar w3-content w3-dark-grey w3-padding w3-round-xlarge"><h5>Enter Gallery <i class="fa fa-fw fa-arrow-right"></i></h5></a>
+    <hr />
 
     <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
+    <!-- First Row of Portfolio -->
+<!--
     <div class="w3-row-padding w3-center">
         <div class="w3-col m3">
-            <img src="img/works/Work-01.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Enchanting glare">
+            <img src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-Bleak-Days.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Trent (Bleak)">
         </div>
 
         <div class="w3-col m3">
-            <img src="img/works/Work-02.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Cos: Anna (from K Series)">
+            <img src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-Hopeful-Days.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Trent (Hopeful)">
         </div>
 
         <div class="w3-col m3">
-            <img src="img/works/Work-03.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
+            <img src="http://static.josephthenara.com/jt-assets/images/unnc-trent-bd/Trent-at-Sunset.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Trent (Sunset)">
         </div>
 
         <div class="w3-col m3">
             <img src="img/works/Work-02.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
         </div>
     </div>
+  -->
 
+    <!-- Second Row of Portfolio -->
+<!--
     <div class="w3-row-padding w3-center w3-section">
         <div class="w3-col m3">
             <img src="img/works/Work-02.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist">
@@ -197,15 +228,12 @@
         </div>
 
         <div class="w3-col m3">
-            <!--
-            <video style="width: 100%;" onclick="onClick(this)" class="w3-hover-opacity" src="img/works/AntiClockwise-offline.mp4">
-                <source src="img/works/AntiClockwise-offline.mp4">
-            </video>
-            -->
             <img src="img/works/Work-02.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sailing">
         </div>
         <a href="works.html"><button class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button></a>
     </div>
+-->
+
 </div>
 
 <!-- Modal for full size images on click-->
@@ -319,6 +347,35 @@
             x.className = x.className.replace(" w3-show", "");
         }
     }
+
+<!-- SLIDESHOW SCRIPT BEGINS -->
+    var slideIndex = 1;
+    showDivs(slideIndex);
+
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+
+    function currentDiv(n) {
+      showDivs(slideIndex = n);
+    }
+
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("demo");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" w3-white", "");
+      }
+      x[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " w3-white";
+    }
+
 </script>
 
 </body>
