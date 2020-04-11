@@ -3,9 +3,10 @@
 <title>&lt/JOSEPH.THEN&gt</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="oEyls6Ht8NlKSbRCQGNMaK-NT9GthyT7mjmRtwW2dNQ" />
 <link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 <link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/main.css">
 <style>
     /* Create a Parallax Effect */
@@ -265,7 +266,7 @@
             <div class="w3-large w3-margin-bottom">
                 <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> 199 Taikang East Rd. Ningbo, Zhejiang, PRC<br>
                 <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (+86) 185.2011.7756<br>
-                <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:josephthen3320@outlook.com"> JosephThen3320@outlook.com</a><br>
+                <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:josephthen@josephthenara.com"> JosephThenara</a> | <a href="mailto:josephthen3320@outlook.com">Outlook</a> <br>
             </div>
             <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
             <form action="/action_page.php" target="_blank">
@@ -295,19 +296,31 @@
                     <td width="45%"></td>
                     <td>
                         <a href="http://fwd.josephthenara.com/Twitter" target="_blank">
-                            <i class="fa fa-twitter w3-hover-opacity"></i>
+                            <i class="fab fa-twitter fa-fw w3-hover-opacity"></i>
                         </a>
                     </td>
                     <td></td>
                     <td>
                         <a href="http://fwd.josephthenara.com/LinkedIn" target="_blank">
-                            <i class="fa fa-linkedin w3-hover-opacity"></i>
+                            <i class="fab fa-linkedin-in fa-fw w3-hover-opacity"></i>
                         </a>
                     </td>
                     <td></td>
                     <td>
-                        <a href="http://fwd.josephthenara.com/Instagram-mgd" target="_blank">
-                            <i class="fa fa-instagram w3-hover-opacity"></i>
+                        <a href="http://fwd.josephthenara.com/Instagram-MGD" target="_blank">
+                            <i class="fab fa-instagram fa-fw w3-hover-opacity"></i>
+                        </a>
+                    </td>
+                    <td></td>
+                    <td>
+                        <a href="http://fwd.josephthenara.com/Instagram" target="_blank">
+                            <i class="fab fa-instagram-square fa-fw w3-hover-opacity"></i>
+                        </a>
+                    </td>
+                    <td></td>
+                    <td>
+                        <a href="http://fwd.josephthenara.com/YouTube" target="_blank">
+                            <i class="fab fa-youtube fa-fw w3-hover-opacity"></i>
                         </a>
                     </td>
                     <td width="45%"></td>
