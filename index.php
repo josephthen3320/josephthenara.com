@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
-<title>&lt/JOSEPH.THEN&gt</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-site-verification" content="oEyls6Ht8NlKSbRCQGNMaK-NT9GthyT7mjmRtwW2dNQ" />
-<link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
-<link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/main.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="oEyls6Ht8NlKSbRCQGNMaK-NT9GthyT7mjmRtwW2dNQ" />
+    <!--Meta Ends-->
+    <title>&lt/JOSEPH.THEN&gt</title>
+
+    <link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+    <link rel="stylesheet" href="http://static.josephthenara.com/jt-assets/css/main.css">
+</head>
 <style>
     /* Create a Parallax Effect */
     .bgimg-1, .bgimg-2, .bgimg-3 {
