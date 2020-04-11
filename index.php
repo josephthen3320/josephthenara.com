@@ -294,19 +294,19 @@
                 <tr>
                     <td width="45%"></td>
                     <td>
-                        <a href="https://www.twitter.com/josephthen3320" target="_blank">
+                        <a href="http://fwd.josephthenara.com/Twitter" target="_blank">
                             <i class="fa fa-twitter w3-hover-opacity"></i>
                         </a>
                     </td>
                     <td></td>
                     <td>
-                        <a href="https://www.linkedin.com/in/josephthenara" target="_blank">
+                        <a href="http://fwd.josephthenara.com/LinkedIn" target="_blank">
                             <i class="fa fa-linkedin w3-hover-opacity"></i>
                         </a>
                     </td>
                     <td></td>
                     <td>
-                        <a href="https://www.instagram.com/josephthen3320" target="_blank">
+                        <a href="http://fwd.josephthenara.com/Instagram-mgd" target="_blank">
                             <i class="fa fa-instagram w3-hover-opacity"></i>
                         </a>
                     </td>
