@@ -52,7 +52,6 @@
 </style>
 
 <body ondragstart="return false" onselectstart="return false">
-
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
     <div class="w3-bar" id="myNavbar">
@@ -82,6 +81,9 @@
 
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
+    <div style="display: none;">
+        <img src="http://static.josephthenara.com/jt-assets/images/josephthenaracom-main.jpg" style="visibility: hidden">
+    </div>
     <h3 class="w3-center">ABOUT ME</h3>
     <p class="w3-center"><em>I speak motion pictures.</em></p><br>
     <hr />
@@ -189,6 +191,12 @@
       </div>
     </div>
 <hr/>
+    <h3 class="w3-center">FEATURED VIDEO PRODUCTION</h3>
+    <p class="w3-center"><em>My latest video production.</em></p>
+    <div class="w3-container w3-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fDxiG8FFJlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+<hr/>
 
     <h4 class="w3-center">GALLERY</h4>
     <p class="w3-center"><em>Click the button below for some of my latest motion films and photography work.</em></p>
@@ -273,7 +281,7 @@
                 <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:josephthen@josephthenara.com"> JosephThenara</a> | <a href="mailto:josephthen3320@outlook.com">Outlook</a> <br>
             </div>
             <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
-            <form action="/action_page.php" target="_blank">
+            <form action="" target="_blank">
                 <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
                     <div class="w3-half">
                         <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
