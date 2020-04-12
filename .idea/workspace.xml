@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ae3402-3ba3-4cec-bde5-ad8d84dadf73" name="Default" comment="">
+    <list default="true" id="43ae3402-3ba3-4cec-bde5-ad8d84dadf73" name="Default" comment="New update 2020.04.12&#10;+ Fixed meta tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
@@ -17,8 +17,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="612">
+              <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -130,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583492133018</updated>
-      <workItem from="1586629915874" duration="6488000" />
+      <workItem from="1586629915874" duration="7002000" />
     </task>
     <task id="LOCAL-00001" summary="New update 2020.04.12">
       <created>1586630038278</created>
@@ -174,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586673111412</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New update 2020.04.12&#10;+ Fixed meta tags">
+      <created>1586673320536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586673320536</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6488000" />
+    <option name="totallyTimeSpent" value="7002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -216,7 +223,8 @@
     <MESSAGE value="New update 2020.04.12&#10;+ Added Google Site Verification" />
     <MESSAGE value="New update 2020.04.12&#10;+ Added hidden image for preview&#10;+ Fixed social media links&#10;+ Added YouTube module" />
     <MESSAGE value="New update 2020.04.12&#10;+ Added meta tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="New update 2020.04.12&#10;+ Added meta tags" />
+    <MESSAGE value="New update 2020.04.12&#10;+ Fixed meta tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="New update 2020.04.12&#10;+ Fixed meta tags" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -246,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="612">
+          <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />

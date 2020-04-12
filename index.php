@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!--Meta Starts-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="oEyls6Ht8NlKSbRCQGNMaK-NT9GthyT7mjmRtwW2dNQ" />
-    <meta name="og:image" content="http://static.josephthenara.com/jt-assets/images/josephthenaracom-main.jpg"/>
-    <meta name="og:description" content="JosephThen MGD: Capturing the future and creating meanings through media production and graphic designs." />
+
+    <meta name="description" content="JosephThen MGD: Capturing the future and creating meanings through media production and graphic designs." />
+    <meta name="author" content="Joseph Then">
+    <meta name="keywords" content="josephthen, joseph, thenara, graphic, design, video, production, multimedia, media, portfolio, photo, photography, videography, blog">
+
+    <!-- OpenGraph -->
+    <meta property='og:title' content='JosephThen Multimedia & Design'/>
+    <meta property='og:image' content='http://static.josephthenara.com/jt-assets/images/josephthenaracom-main.jpg'/>
+    <meta property='og:description' content='Capturing the future and creating meanings through media production and graphic designs.'/>
+    <meta property='og:url' content='http://josephthenara.com/' />
+    <!-- OG Ends -->
     <!--Meta Ends-->
     <title>&lt/JOSEPH.THEN&gt</title>
 
