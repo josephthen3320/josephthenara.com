@@ -4,6 +4,7 @@
     <!--Meta Starts-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="http://static.josephthenara.com/jt-assets/site-assets/favicon.ico" type="image/x-icon">
     <meta name="google-site-verification" content="oEyls6Ht8NlKSbRCQGNMaK-NT9GthyT7mjmRtwW2dNQ" />
 
     <meta name="description" content="JosephThen MGD: Capturing the future and creating meanings through media production and graphic designs." />
@@ -63,7 +64,7 @@
     }
 </style>
 
-<body ondragstart="return false" onselectstart="return false">
+<body ondragstart="return false">
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
     <div class="w3-bar" id="myNavbar">

@@ -17,15 +17,15 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="144" column="62" lean-forward="false" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
+            <state relative-caret-position="119">
+              <caret line="7" column="98" lean-forward="true" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#10769#11748#0#HTML" expanded="false" />
-                <element signature="e#11787#12721#0#HTML" expanded="false" />
+                <element signature="e#10855#11834#0#HTML" expanded="false" />
+                <element signature="e#11873#12807#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -132,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583492133018</updated>
-      <workItem from="1586629915874" duration="12666000" />
+      <workItem from="1586629915874" duration="13281000" />
     </task>
     <task id="LOCAL-00001" summary="New update 2020.04.12">
       <created>1586630038278</created>
@@ -197,11 +197,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586846677665</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New update 2020.04.14&#10;+ Fixed icons">
+      <created>1586847043617</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586847043617</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12666000" />
+    <option name="totallyTimeSpent" value="13281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,7 +248,8 @@
     <MESSAGE value="New update 2020.04.12&#10;+ Added meta tags" />
     <MESSAGE value="New update 2020.04.12&#10;+ Fixed meta tags" />
     <MESSAGE value="New update 2020.04.14&#10;+ Changed parallax pictures" />
-    <option name="LAST_COMMIT_MESSAGE" value="New update 2020.04.14&#10;+ Changed parallax pictures" />
+    <MESSAGE value="New update 2020.04.14&#10;+ Fixed icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="New update 2020.04.14&#10;+ Fixed icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -271,15 +279,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="144" column="62" lean-forward="false" selection-start-line="144" selection-start-column="62" selection-end-line="144" selection-end-column="62" />
+        <state relative-caret-position="119">
+          <caret line="7" column="98" lean-forward="true" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10769#11748#0#HTML" expanded="false" />
-            <element signature="e#11787#12721#0#HTML" expanded="false" />
+            <element signature="e#10855#11834#0#HTML" expanded="false" />
+            <element signature="e#11873#12807#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
