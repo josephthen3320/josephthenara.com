@@ -130,19 +130,19 @@
     </div>
     <hr />
     <p class="w3-large w3-center w3-padding-16">I am really good at:</p>
-    <p class="w3-wide"><i class="fa fa-camera"></i>Film Production</p>
+    <p class="w3-wide"><i class="fa fa-camera fa-fw"></i> Film Production</p>
     <div class="w3-light-grey">
         <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
     </div>
-    <p class="w3-wide"><i class="fa fa-laptop"></i>Graphic Design</p>
+    <p class="w3-wide"><i class="fa fa-laptop fa-fw"></i> Graphic Design</p>
     <div class="w3-light-grey">
         <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:85%">85%</div>
     </div>
-    <p class="w3-wide"><i class="fa fa-photo"></i>Web Design</p>
+    <p class="w3-wide"><i class="fa fa-globe fa-fw"></i> Web Design</p>
     <div class="w3-light-grey">
         <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
     </div>
-    <p class="w3-wide"><i class="fa fa-pencil"></i>Teaching</p>
+    <p class="w3-wide"><i class="fa fa-pencil-alt fa-fw"></i> Teaching</p>
     <div class="w3-light-grey">
         <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:60%">60%</div>
     </div>
