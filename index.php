@@ -35,19 +35,19 @@
 
     /* First image (Logo. Full height) */
     .bgimg-1 {
-        background-image: url('img/slideshow/01.JPG');
+        background-image: url('http://static.josephthenara.com/jt-assets/images/slideshow/05.jpg');
         min-height: 100%;
     }
 
     /* Second image (Portfolio) */
     .bgimg-2 {
-        background-image: url("img/slideshow/02.JPG");
+        background-image: url("http://static.josephthenara.com/jt-assets/images/slideshow/02.jpg");
         min-height: 400px;
     }
 
     /* Third image (Contact) */
     .bgimg-3 {
-        background-image: url("img/slideshow/03.JPG");
+        background-image: url("http://static.josephthenara.com/jt-assets/images/slideshow/03.jpg");
         min-height: 400px;
     }
 
@@ -286,8 +286,9 @@
         <div class="w3-col m8 w3-panel">
             <div class="w3-large w3-margin-bottom">
                 <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> 199 Taikang East Rd. Ningbo, Zhejiang, PRC<br>
-                <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (+86) 185.2011.7756<br>
-                <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:josephthen@josephthenara.com"> JosephThenara</a> | <a href="mailto:josephthen3320@outlook.com">Outlook</a> <br>
+                <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> <a href="tel:+86185-2011-7756">(+86) 185.2011.7756</a><br>
+                <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> <a href="mailto:josephthen@josephthenara.com"> JosephThenara</a> | <a href="mailto:josephthen3320@outlook.com">Outlook</a> <br>
+                <i class="fab fa-weixin fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> JMT147 (<a href="https://web.wechat.com" target="_blank">Web</a>)
             </div>
             <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
             <form action="" target="_blank">
